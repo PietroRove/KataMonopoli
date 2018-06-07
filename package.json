@@ -1,0 +1,23 @@
+{
+  "name": "katamonopoli",
+  "version": "1.0.0",
+  "description": "Kata realizzato con il metodo TDD inerente al gioco del Monopoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PietroRove/KataMonopoli.git"
+  },
+  "author": "Pietro Roversi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PietroRove/KataMonopoli/issues"
+  },
+  "homepage": "https://github.com/PietroRove/KataMonopoli#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
